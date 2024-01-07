@@ -51,6 +51,10 @@
 
   /* Horizontal Page Settings */
 
+.masthead {
+  margin-bottom: 2rem;
+}
+
 .cover-container {
   max-width: 72em;
 }
