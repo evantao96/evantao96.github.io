@@ -50,6 +50,10 @@
   }
 
   /* Horizontal Page Settings */
+  
+.cover-container {
+  max-width: 72em;
+}
 
 #scroll {
   width: 95%;
