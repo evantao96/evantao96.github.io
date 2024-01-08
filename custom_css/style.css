@@ -20,6 +20,6 @@
   }
 
 .bs-slider{
-  max-width: calc(90vw);
+  max-width: calc(85vw);
   overflow: hidden;
 }
