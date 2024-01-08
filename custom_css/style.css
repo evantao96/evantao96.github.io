@@ -1,15 +1,14 @@
 
+ 
  *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
  }
 
-
 .bg{
     background-color: #2D3748;
 }
-
 
 #particles-bg {
     position: fixed;
@@ -34,6 +33,14 @@ body {
 /* manipulates width of horizontal scroll */
 .cover-container {
   max-width: 72em;
+}
+
+.masthead {
+  margin-bottom: 2rem;
+}
+
+.masthead-brand {
+  margin-bottom: 0;
 }
 
 .cover {
