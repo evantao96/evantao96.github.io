@@ -18,8 +18,3 @@
     height: 100%;
     z-index: -1; /* Place it behind your other content */
   }
-
-.bs-slider{
-  max-height: calc(75vh);
-  overflow: hidden;
-}
