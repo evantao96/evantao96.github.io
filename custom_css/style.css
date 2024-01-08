@@ -18,3 +18,8 @@
     height: 100%;
     z-index: -1; /* Place it behind your other content */
   }
+
+  .carousel-item {
+    display: flex;
+    justify-content: center;
+  }
