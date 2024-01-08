@@ -18,8 +18,3 @@
     height: 100%;
     z-index: -1; /* Place it behind your other content */
   }
-
-.carousel-inner {
-    display: flex;
-    justify-content: center;
-}
